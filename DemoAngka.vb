@@ -9,7 +9,6 @@
             .MinimizeBox = False
             .FormBorderStyle = FormBorderStyle.FixedSingle
             .StartPosition = FormStartPosition.CenterScreen
-
         End With
     End Sub
 
